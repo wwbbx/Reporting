@@ -1,0 +1,15 @@
+{
+  "name": "AiR",
+  "version": "0.0.0",
+  "description": "AiR",
+  "main": "app.js",
+  "author": {
+    "name": "xiwang",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
